@@ -1,10 +1,11 @@
-
+# Algorithm
+https://programmering.systime.dk/?id=204
 
 # Generativeart
 
 
 ## Turtle graphics
-https://docs.python.org/3/library/turtle.html#turtle.goto
+https://docs.python.org/3/library/turtle.html
 - Turtle tutorials 
 https://realpython.com/beginners-guide-python-turtle/
 Do it until chapter **"Using Loops and Conditional Statements"**
