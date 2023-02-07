@@ -1,7 +1,7 @@
 import numpy as np
 import turtle
 
-fill_posibility = [0, 10, 100, 0, 100, 101]
+fill_posibility = [0, 10, 30, 40, 100, 101]
 shapearray1 = np.arange(4).reshape(2,2)
 shapearray2 = np.arange(9).reshape(3,3)
 
@@ -41,6 +41,6 @@ t.pencolor('white')
 t.penup()
 t.width(2)
 t.goto(-200, -200)
-plot_squares(500, 0, -200, -200, 3)
+plot_squares(500, 0, -200, -200, 5)
 turtle.done()
 
