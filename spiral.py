@@ -3,8 +3,8 @@ color('red')
 colormode(255)
 begin_fill()
 len = 5
-increment = 1
-color_increment = 3
+increment = 2
+color_increment = 4
 red, green, blue = 0, 255, 0
 
 for i in range(90):

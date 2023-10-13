@@ -1,7 +1,7 @@
 import numpy as np
 import turtle
 
-fill_posibility = [0, 10, 30, 40, 100, 101]
+fill_posibility = [0, 10, 30, 40, 70, 101]
 shapearray1 = np.arange(4).reshape(2,2)
 shapearray2 = np.arange(9).reshape(3,3)
 
@@ -24,7 +24,7 @@ def plot_squares(width, level, x,y, N):
         if fill:
             fill_square(x,y,width)
         else:
-            chooseshape = np.random.randint(1,100)<70
+            chooseshape = np.random.randint(1,100)<80
             if(chooseshape):
                 for (i,j), _ in np.ndenumerate(shapearray1):
                     plot_squares(width/2, level+1, x+i*width/2,y+j*width/2, N)
@@ -41,6 +41,6 @@ t.pencolor('white')
 t.penup()
 t.width(2)
 t.goto(-200, -200)
-plot_squares(500, 0, -200, -200, 5)
+plot_squares(500, 0, -200, -200, 6)
 turtle.done()
 
