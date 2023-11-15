@@ -1,5 +1,23 @@
+# We start with a play
+- Write a piece of text of the picture you get with max 5 sentences.
+- Exchange your text with another one in a different group. 
+- Draw a picture according to the description you get. 
+
+
+
+
 # Algorithm
 https://programmering.systime.dk/?id=204
+
+- Euklids algoritme 
+
+# Pseudo Code
+- Eukilds algorithm
+- ![Division](http://url/to/img.png)
+
+
+## Do it yourself 
+- 
 
 # Generativeart
 
@@ -20,8 +38,7 @@ https://spin.atomicobject.com/2021/12/14/generative-art-zero-random/
 
 
 # Algorithm and pseudocode
-## Do it yourself
--  Metode til beregning af kvadratrod
+## Do it yourself -  Metode til beregning af kvadratrod
     - Beregn uden brug af computer kvadratroden af 289 (resultatet er et helt tal).
     - Beskriv så præcist som muligt metoden til at beregne et tals kvadratrod. 
 
