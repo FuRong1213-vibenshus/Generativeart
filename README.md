@@ -7,20 +7,21 @@
 
 
 # Algorithm
-https://programmering.systime.dk/?id=204
+
 
 - Euklids algoritme 
 
 # Pseudo Code
-- Eukilds algorithm
-- ![Division](https://github.com/FuRong1213-vibenshus/Generativeart/blob/12moduler/pseudocode.jpg)
+- Eukilds algorithm: https://programmering.systime.dk/?id=204
+- ![Division](http://url/to/img.png)
 
 
 ## Do it yourself 
-- 
+- Rewrite Eukilds algorithm to pseudocode according to the materials
+- Write pseudocode to recreate the pictures you've get. 
+
 
 # Generativeart
-
 
 ## Turtle graphics
 https://docs.python.org/3/library/turtle.html
