@@ -13,7 +13,7 @@ https://programmering.systime.dk/?id=204
 
 # Pseudo Code
 - Eukilds algorithm
-- ![Division](http://url/to/img.png)
+- ![Division](https://github.com/FuRong1213-vibenshus/Generativeart/blob/12moduler/pseudocode.jpg)
 
 
 ## Do it yourself 
