@@ -40,28 +40,46 @@ def draw_line3(row, col):
         ((row + 1) * CANVAS_SIZE / DENSITY) - CANVAS_SIZE / 2
     )
 
-    res = random.randint(0, 1)
+    res = random.randint(0,5)
 
     if res == 0:
         t.goto(upper_left)
         t.pendown()
         t.goto(lower_right)
         t.penup()
-    else:
+    elif res == 1:
         t.goto(lower_left)
         t.pendown()
         t.goto(upper_right)
         t.penup()
-
+    elif res == 2:
+        t.goto(upper_left)
+        t.pendown()
+        t.goto(upper_right)
+        t.penup()
+    if res == 3:
+        t.goto(lower_left)
+        t.pendown()
+        t.goto(upper_left)
+        t.penup()
+    elif res == 4:
+        t.goto(lower_left)
+        t.pendown()
+        t.goto(lower_right)
+        t.penup()
+    elif res == 5:
+        t.goto(lower_right)
+        t.pendown()
+        t.goto(upper_right)
+        t.penup()
 t = turtle.Turtle()
 turtle.colormode(255)
 s = turtle.Screen()
-s.bgcolor("orange")
+s.bgcolor("black")
 s.setup(CANVAS_SIZE, CANVAS_SIZE)
 
 t.penup()
 t.width(10)
-#t.pencolor("black")
 for row in range(DENSITY):
     for col in range(DENSITY):
         t.pencolor(random.randint(0, 255),random.randint(0, 255), random.randint(0, 255)) 

@@ -38,7 +38,7 @@ def plot():
     t.width(2)
     t.goto(-CANVAS_SIZE/2, -CANVAS_SIZE/2)
     t.pencolor("black")
-    choose = range(6)
+    choose = list('abcd')
     for row in range(DENSITY):
         for col in range(DENSITY):
             position = random.choice(choose)
