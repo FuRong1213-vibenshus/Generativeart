@@ -46,6 +46,7 @@ def plot():
     t.width(5)
     t.goto(-CANVAS_SIZE/2, -CANVAS_SIZE/2)
     t.pencolor("black")
+    s.bgcolor("black")
     choose = list('abcedf')
     for row in range(DENSITY):
         for col in range(DENSITY):

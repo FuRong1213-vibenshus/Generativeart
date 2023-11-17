@@ -1,8 +1,29 @@
+# We start with a play
+- Write a piece of text of the picture you get with max 5 sentences.
+- Exchange your text with another one in a different group. 
+- Draw a picture according to the description you get. 
+
+
+
+
 # Algorithm
-https://programmering.systime.dk/?id=204
+- What is algorithm ? 
+    - Example: Euklids algoritm (MatA) 
+
+- Funny video https://www.youtube.com/watch?v=RZqB9wyvuZA
+
+
+# Pseudo Code
+- Eukilds algorithm: https://programmering.systime.dk/?id=204
+- [Division](https://github.com/FuRong1213-vibenshus/Generativeart/blob/12moduler/pseudocode.jpg)
+
+
+## Do it yourself 
+- Rewrite Eukilds algorithm to pseudocode according to the materials
+- Write pseudocode to recreate the pictures you've get. 
+
 
 # Generativeart
-
 
 ## Turtle graphics
 https://docs.python.org/3/library/turtle.html
@@ -20,8 +41,7 @@ https://spin.atomicobject.com/2021/12/14/generative-art-zero-random/
 
 
 # Algorithm and pseudocode
-## Do it yourself
--  Metode til beregning af kvadratrod
+## Do it yourself -  Metode til beregning af kvadratrod
     - Beregn uden brug af computer kvadratroden af 289 (resultatet er et helt tal).
     - Beskriv så præcist som muligt metoden til at beregne et tals kvadratrod. 
 
