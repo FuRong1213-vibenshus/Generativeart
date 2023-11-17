@@ -7,13 +7,15 @@
 
 
 # Algorithm
+- What is algorithm ? 
+    - Example: Euklids algoritm (MatA) 
 
+- Funny video https://www.youtube.com/watch?v=RZqB9wyvuZA
 
-- Euklids algoritme 
 
 # Pseudo Code
 - Eukilds algorithm: https://programmering.systime.dk/?id=204
-- ![Division](https://github.com/FuRong1213-vibenshus/Generativeart/blob/12moduler/pseudocode.jpg)
+- [Division](https://github.com/FuRong1213-vibenshus/Generativeart/blob/12moduler/pseudocode.jpg)
 
 
 ## Do it yourself 
